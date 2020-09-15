@@ -4,8 +4,8 @@
 
 项目演示：
 
-![Gif演示](http://code.ymlog.cn/file/jd-demo-项目演示.gif)
+![Gif演示](images/jd-demo-项目演示.gif)
 
 ---
 
-![静态图](img/static-shortcut-demo.webp)
+![静态图](images/static-shortcut-demo.png)
