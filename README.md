@@ -1,10 +1,3 @@
-Author: DZQ
-
-BeGin: 2020/9/12
-
-End: 2020/9/14
-
----
 
 
 html + css 的电商练手项目
